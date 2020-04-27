@@ -1,0 +1,13 @@
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.exe
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.deps.json
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.runtimeconfig.json
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.runtimeconfig.dev.json
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.dll
+C:\Users\julia\Desktop\DWSIM\BayerProcess\bin\Debug\netcoreapp3.1\BayerProcess.pdb
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.AssemblyInfo.cs
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.dll
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.pdb
+C:\Users\julia\Desktop\DWSIM\BayerProcess\obj\Debug\netcoreapp3.1\BayerProcess.genruntimeconfig.cache
